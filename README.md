@@ -14,7 +14,7 @@
    
 3. Create a .env file and add the following:
    ```sh
-   secret=qwkfjeowirorwighopgpo3uyy8yyyy34t373r98428043ufr9u2h4f2u4hf249uh
+   secret=DUMMY_VALUE_HERE____REPLACE_IT
    algorithm=HS256
    ```
    
